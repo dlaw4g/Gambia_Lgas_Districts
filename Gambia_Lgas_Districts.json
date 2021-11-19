@@ -1,0 +1,226 @@
+[{
+	"lga": {
+		"name": "Banjul LGA",
+		"id": 1,
+		"district": [{
+				"name": "Banjul Central",
+				"id": 1
+			}, {
+				"name": "Banjul North",
+				"id": 2
+			},
+			{
+				"name": "Banjul South ",
+				"id": 3
+			}
+		]
+	}},
+    {"lga": {
+		"name": "Basse LGA",
+		"id": 2,
+		"district": [{
+				"name":  "Basse Fulladu East",
+				"id": 1
+			}, {
+				"name":  "Jimara",
+				"id": 2
+			},
+			{
+				"name":  "Kantora",
+				"id": 3
+			},
+            {
+				"name":   "Sandu",
+				"id": 4
+			},
+            {
+				"name":  "Tumana",
+				"id": 5
+			},
+            {
+				"name":   "Wuli East",
+				"id": 6
+			},
+            {
+				"name":   "Wuli West",
+				"id" : 7
+			}
+		         ]
+	        } 
+    } ,
+    {"lga": {
+		"name": "Brikama LGA",
+		"id": 3,
+		"district": [{
+				"name":  "Foni Bintang-Karenai",
+				"id": 1
+			}, {
+				"name": "Foni Bondali",
+				"id": 2
+			},
+			{
+				"name":  "Foni Brefet",
+				"id": 3
+			},
+            {
+				"name":  "Foni Jarrol",
+				"id": 4
+			},
+            {
+				"name":   "Foni Kansala",
+				"id": 5
+			},
+            {
+				"name":   "Kombo Central",
+				"id": 6
+			},
+            {
+				"name":  "Kombo East",
+				"id" : 8
+			},
+            {
+				"name":  "Kombo South ",
+				"id" : 9
+			}
+
+
+		         ]
+	        } 
+    } ,
+    {"lga": {
+		"name": "Janjanbureh LGA",
+		"id": 4,
+		"district": [{
+				"name":  "Fulladu West",
+				"id": 1
+			}, {
+				"name": "Janjanbureh",
+				"id": 2
+			},
+			{
+				"name":   "Niamina Dankunku",
+				"id": 3
+			},
+            {
+				"name":  "Niamina East",
+				"id": 4
+			},
+            {
+				"name":   "Niamina West",
+				"id": 5
+			}
+
+
+		         ]
+	        } 
+    } ,
+    {"lga": {
+		"name": "Kanifing LGA",
+		"id": 5,
+		"district": [{
+				"name":  "Kanifing",
+				"id": 1
+			}
+
+
+		         ]
+	        } 
+    },
+    {"lga": {
+		"name": "Kerewan LGA",
+		"id": 6,
+		"district": [{
+				"name":  "Central Baddibu",
+				"id": 1
+			}, {
+				"name":  "Illiasa",
+				"id": 2
+			},
+			{
+				"name":  "Jokadu",
+				"id": 3
+			},
+            {
+				"name":  "Lower Baddibu",
+				"id": 4
+			},
+            {
+				"name":  "Lower Niumi",
+				"id": 5
+			},
+            {
+				"name":   "Sabach Sanjal",
+				"id": 6
+			},
+            {
+				"name":   "Upper Niumi",
+				"id" : 7
+			}
+		         ]
+	        } 
+    },
+    {"lga": {
+		"name": "Kuntaur LGA",
+		"id": 7,
+		"district": [{
+				"name":  "Lower Saloum",
+				"id": 1
+			}, {
+				"name": "Niani",
+				"id": 2
+			},
+			{
+				"name":   "Nianija",
+				"id": 3
+			},
+            {
+				"name":  "Sami",
+				"id": 4
+			},
+            {
+				"name":   "Upper Saloum",
+				"id": 5
+			}
+
+
+		         ]
+	        } 
+    },
+    {"lga": {
+		"name": "Mansakonko LGA",
+		"id": 8,
+		"district": [{
+				"name":   "Jarra Central",
+				"id": 1
+			}, {
+				"name":  "Jarra East",
+				"id": 2
+			},
+			{
+				"name":  "Jarra West",
+				"id": 3
+			},
+            {
+				"name":   "Kiang Central",
+				"id": 4
+			},
+            {
+				"name":  "Kiang East",
+				"id": 5
+			},
+            {
+				"name":  "Kiang West",
+				"id": 6
+			}
+            
+		         ]
+	        } 
+    }
+
+
+
+
+
+
+
+]
